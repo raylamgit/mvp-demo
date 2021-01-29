@@ -16,7 +16,7 @@
       *
       *    (C) 2019 IBM
       *
-      *    EPSMPMT - 2021-01-10 at 2:12PM RL  at firstBranch
+      *    EPSMPMT - 2021-01-29 at 3:03PM RL  at firstBranch TRIGGER
       *
        ENVIRONMENT DIVISION.
        CONFIGURATION SECTION.

@@ -16,7 +16,7 @@
       *
       *    (C) 2019 IBM
       *
-      *    EPSMPMT - 2021-01-29 at 3:19PM RL at Test TRIGGER
+      *    EPSMPMT - 2021-02-02 at 3:00PM RL at Test TRIGGER
       *
        ENVIRONMENT DIVISION.
        CONFIGURATION SECTION.
